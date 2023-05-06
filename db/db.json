@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "asfsdafas",
+        "text": "asdfasf",
+        "note_id": "b8cb0cb6-79a2-40d1-910a-be7297adca40"
+    },
+    {
+        "title": "Clean the house",
+        "text": "Have to clean the house today",
+        "note_id": "3ba5641e-b1f3-4174-a6ab-bce7351f8529"
     }
 ]
