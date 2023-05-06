@@ -87,8 +87,6 @@ const handleNoteDelete = (e) => {
 
   if (activeNote.id === noteId) {
     activeNote = {};
-    console.log(note);
-    console.log(noteId);
   }
 
   deleteNote(noteId).then(() => {
