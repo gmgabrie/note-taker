@@ -1,5 +1,8 @@
 const notes = require('express').Router();
+
+// Helper method for generating unique ids
 const { v4: uuidv4 } = require('uuid');
+
 const fs = require('fs');
 const {
   readFromFile,

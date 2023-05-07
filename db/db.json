@@ -5,13 +5,13 @@
         "note_id": "273e42ce-8aaa-4f55-a7ab-7dd735afdd13"
     },
     {
-        "title": "Grocery Shopping",
-        "text": "Go to publix for this week's groceries.",
-        "note_id": "6f852572-6430-4971-b07f-c1e2f12d715f"
-    },
-    {
         "title": "Dentist Appointment",
         "text": "denstis appoint at 3pm",
         "note_id": "4b3d7c8e-8608-49dd-baa4-79c1ee76a867"
+    },
+    {
+        "title": "Grocery Shopping",
+        "text": "Go to Publix and get groceries for the week.",
+        "note_id": "c61fa1d9-2cfe-441a-a1d8-eea6f04916c0"
     }
 ]
