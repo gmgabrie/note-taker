@@ -11,7 +11,7 @@
   * [Questions](#questions)
 
   ## Description
-  This is a web application that allows a user to save notes to a tracking list.  New notes can be added to the list, current notes can be deleted and edited.  This application utilizes many different coding platforms and concepts including NodeJS, ExpressJS, JavaScript, HTML, CSS, modular routing, and API calls.  
+  This is a web application that allows a user to save notes to a tracking list.  New notes can be added to the list, current notes can be viewed and deleted.  This application utilizes many different coding platforms and concepts including NodeJS, ExpressJS, JavaScript, HTML, CSS, modular routing, and API calls.  
 
   ![note tracker screenshot1](./public/assets/images/1.png) 
   ![note tracker screenshot2](./public/assets/images/2.png)
@@ -23,7 +23,7 @@
   The user will access the application via the URL provided above in the Installation section.  Once the Note Taker homepage loads, the user can click on the Get Started button where they will be taken to the Notes page.  On the Notes page the user can create a new note by entering text in the Title and Text fields and clicking the Save button in the upper-right corner.  That note will get added to a list of saved notes on the left-side of the application.  Saved notes can be access by clicking on them and they can be deleted by clicking the trash icon associated with each note.
 
   Here is a walkthrough video showing full functionality of the application:
-  
+  https://drive.google.com/file/d/1u9WLm2uuLVUp61C1siXzEjRS07YDOCJb/view
 
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license badge at the top.
