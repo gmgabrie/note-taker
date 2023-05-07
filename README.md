@@ -7,6 +7,7 @@
   * [Installation](#installation)
   * [Usage and Walkthrough Video](#usage-and-walkthrough-video)
   * [Licenses](#licenses)
+  * [Credits](#credits)
   * [Contributing](#contributing)
   * [Questions](#questions)
 
@@ -26,7 +27,10 @@
   https://drive.google.com/file/d/1u9WLm2uuLVUp61C1siXzEjRS07YDOCJb/view
 
   ## Licenses
-    This project is covered under the MIT license. To learn more about what this means, click the license badge at the top.
+  This project is covered under the MIT license. To learn more about what this means, click the license badge at the top.
+
+  ## Credits
+  I referenced and used code from several of the lessons from UCF Full Stack Bootcamp Module 11 (Express), in particular the end of module mini-project.  
 
   ## Contributing
   You are welcome to contribute to this project by forking the project or contacting me via my Github profile or email address found below in the Questions section.  
